@@ -47,6 +47,18 @@ pip install -r requirements.txt
 ```bash
 # Run the application with the following command:
 python pro2.py
+```
 
+## 🔍 Interaction Modes
+
+- **Node Management**
+  - ➕ Add nodes by clicking on the canvas.
+  - 🔗 Add edges between nodes and assign custom weights.
+  - 🗑️ Modify or delete existing nodes and edges.
+    
+- **Search Algorithms**
+  - Select start and end nodes.
+  - Choose a pathfinding algorithm from the list.
+  - Visualize the traversal and observe the results.
 
 
