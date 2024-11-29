@@ -61,4 +61,10 @@ python pro2.py
   - Choose a pathfinding algorithm from the list.
   - Visualize the traversal and observe the results.
 
+## 📝 Keyboard & Mouse Controls
+  - 🖱️ Left-Click: Add nodes or edges.
+  - 🔄 Mouse Wheel: Zoom in and out.
+  - 🖲️ Buttons: Manage graph elements and execute search algorithms.
+
+
 
