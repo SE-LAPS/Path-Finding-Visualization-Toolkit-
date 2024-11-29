@@ -96,5 +96,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## 📧 Support
 For support or feedback, please:
 
-  1️⃣Open an issue on GitHub.
+  1️⃣Open an issue on GitHub.<br>
   2️⃣Contact us at: 
