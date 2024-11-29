@@ -66,5 +66,10 @@ python pro2.py
   - 🔄 Mouse Wheel: Zoom in and out.
   - 🖲️ Buttons: Manage graph elements and execute search algorithms.
 
+## 🌐 Potential Applications
+- **GraphExplorer is versatile and can be applied to**:
 
-
+🚚 Network Routing
+🚉 Transportation Planning
+🎮 Game Development
+📚 Algorithm Education
