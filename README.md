@@ -95,6 +95,3 @@ git push origin feature-name
 ## 📧 Contact
 For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://bit.ly/Lahiru_Senavirathna).
 
-
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
