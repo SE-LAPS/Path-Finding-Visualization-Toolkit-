@@ -68,8 +68,7 @@ python pro2.py
 
 ## 🌐 Potential Applications
 - **GraphExplorer is versatile and can be applied to**:
-
-🚚 Network Routing
-🚉 Transportation Planning
-🎮 Game Development
-📚 Algorithm Education
+  - 🚚 Network Routing
+  - 🚉 Transportation Planning
+  - 🎮 Game Development
+  - 📚 Algorithm Education
