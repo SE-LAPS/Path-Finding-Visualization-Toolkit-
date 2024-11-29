@@ -92,3 +92,9 @@ git push origin feature-name
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## 📧 Support
+For support or feedback, please:
+
+  1️⃣Open an issue on GitHub.
+  2️⃣Contact us at: 
