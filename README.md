@@ -72,3 +72,12 @@ python pro2.py
   - 🚉 Transportation Planning
   - 🎮 Game Development
   - 📚 Algorithm Education
+
+ ## 🤝 Contributing
+ We welcome contributions! Follow these steps:
+```bash
+1️⃣Fork this repository.
+2️⃣Create a feature branch
+git checkout -b feature-name
+3️⃣Commit your changes
+git commit -m "Add feature description"
