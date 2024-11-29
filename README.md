@@ -89,12 +89,11 @@ git push origin feature-name
 
 # 05) Create a pull request
 ```
-
-## Contact Us 📞
-Ready to take your business to the next level? Reach out to us today!
-
-- **Email**: [codeshowlapz@gmail.com](mailto:codeshowlapz@gmail.com) 📧
-- **Phone**: +94 712 435 202 📱
+## 📝 License
+    This project is licensed under the MIT License. See the LICENSE file for more details.
+    
+## 📧 Contact
+For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://bit.ly/Lahiru_Senavirathna).
 
 
 ## 📄 License
