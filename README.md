@@ -34,7 +34,7 @@ Ensure you have the following installed:
 Follow these steps to set up **GraphExplorer**:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/graphexplorer.git
+git clone https://github.com/SE-LAPS/Path-Finding-Visualization-Toolkit-.git
 
 # Navigate to the project directory
 cd graphexplorer
