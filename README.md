@@ -76,11 +76,15 @@ python pro2.py
  ## 🤝 Contributing
  We welcome contributions! Follow these steps:
 ```bash
-# Fork this repository.
-# Create a feature branch
+# 01) Fork this repository.
+
+# 02) Create a feature branch
 git checkout -b feature-name
-# Commit your changes
+
+# 03) Commit your changes
 git commit -m "Add feature description"
-# Push to your branch
+
+# 04) Push to your branch
 git push origin feature-name
-# Create a pull request
+
+# 05) Create a pull request
