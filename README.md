@@ -41,3 +41,12 @@ cd graphexplorer
 
 # Install required libraries
 pip install -r requirements.txt
+```
+
+## 💻 Usage
+```bash
+# Run the application with the following command:
+python pro2.py
+
+
+
