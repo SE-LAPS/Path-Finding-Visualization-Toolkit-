@@ -93,8 +93,8 @@ git push origin feature-name
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## 📧 Support
-For support or feedback, please:
+## Contact Us 📞
+Ready to take your business to the next level? Reach out to us today!
 
-  1️⃣Open an issue on GitHub.<br>
-  2️⃣Contact us at: 
+- **Email**: [codeshowlapz@gmail.com](mailto:codeshowlapz@gmail.com) 📧
+- **Phone**: +94 712 435 202 📱
